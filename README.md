@@ -1,2 +1,2 @@
-# JAVA_quiz_management
+# JAVA_quiz_management(Sem-1)
 My Java program is a quiz management system allowing users to practice questions, attempt quizzes, search for specific questions, and visit a virtual store. Users accumulate points by answering questions correctly, which can then be used to purchase items from the store. The program features a menu-driven interface and includes functionality for practicing individual questions, taking full quizzes, searching for questions by keyword or text, and making purchases in the virtual store.
